@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES2017", //build ra o version es2017
+    "outDir": "build"
+  },
+  "include": ["src/**/*"] //build tat ca cac file trong src
+}
